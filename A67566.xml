@@ -721,7 +721,10 @@ viri illustres <hi>Keplerus</hi> in <hi>Hyperaspiste Tychonis, Galilaeus</hi> in
                         </am>
                         <ex>que</ex>
                      </expan> (deficien<g ref="char:EOLhyphen"/>te longo satis intervallo) pertingat) totum arcum visibi<g ref="char:EOLhyphen"/>lem supra Horizontem duarum Horarum spatio absolve<g ref="char:EOLhyphen"/>rent uti demonstrat <hi>Cysatus,</hi> at plurimi etiam prope ae<g ref="char:EOLhyphen"/>quatorem arcum nocturnum semicirculo majorem ha<g ref="char:EOLhyphen"/>buerunt.</p>
-                  <figure/>
+                  <p>
+                     <pb n="9" facs="tcp:103182:9"/>
+                     <figure/>
+                  </p>
                   <p>Verùm non opus est argumenta hujusce rei plura refer<g ref="char:EOLhyphen"/>re cum validum unum sufficiat tale est autem illud a pa<g ref="char:EOLhyphen"/>rallaxibus. <hi>Stet igitur quasi stabilitum futurarum disquisitionum fundamentum, esse in ipso aethere supra orbem Lunarem Cometas a<g ref="char:EOLhyphen"/>liquos.</hi>
                   </p>
                   <p>At<expan>
@@ -2332,7 +2335,10 @@ totum illud quod volumus est, Cometas in Planeticorum corporum ordinem Asserere.
                         </am>
                         <ex>que</ex>
                      </expan> ita deinceps.</p>
-                  <figure/>
+                  <p>
+                     <pb n="33" facs="tcp:103182:23"/>
+                     <figure/>
+                  </p>
                   <figure/>
                   <p>
                      <pb n="34" facs="tcp:103182:24"/>Hoc autem cum in circulo terram excludente manife<g ref="char:EOLhyphen"/>stius sit quam ut demonstratione indigeat, illud in circu<g ref="char:EOLhyphen"/>lo Cometico terram ambiente demonstrabimus.</p>
@@ -3925,7 +3931,10 @@ existimavit, at<expan>
                         </list>
                      </item>
                   </list>
-                  <figure/>
+                  <p>
+                     <pb n="12" facs="tcp:103182:41"/>
+                     <figure/>
+                  </p>
                   <p>Est autem KC. s, <expan>
                         <am>
                            <g ref="char:angulum"/>
@@ -4204,7 +4213,44 @@ At<expan>
                      </expan> adeo in ςc. unde in Tri. K ς dantur omnia latera, &amp; quaeritur <gap reason="math">
                         <desc>〈 math 〉</desc>
                      </gap> angulus ad c.</p>
-                  <figure/>
+                  <p>
+                     <pb n="18" facs="tcp:103182:44"/>At angulus iste in forma circulari facilius inveni<g ref="char:EOLhyphen"/>tur nempe in Tri. χ ς dantur duo latera <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                     <list>
+                        <item>χ c</item>
+                        <item>χ ς</item>
+                     </list>
+radii crculorum suorum, Cum angulo Comprehenso (complemento nimiru<g ref="char:cmbAbbrStroke">̄</g> duplae Anomaliae aequatae ad duos rectos) at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ita una operatione Inveni<g ref="char:EOLhyphen"/>tur angulus <expan>
+                        <am>
+                           <g ref="char:angulum"/>
+                        </am>
+                        <ex>angulum</ex>
+                     </expan>χcς qui cum <expan>
+                        <am>
+                           <g ref="char:angulum"/>
+                        </am>
+                        <ex>angulum</ex>
+                     </expan>Kcς, idem est.
+<figure/>
+At<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> hoc totum est, quo methodus Circularis ellipticam
+<pb n="19" facs="tcp:103182:44" rendition="simple:additions"/>
+superat; in Caeteris Consentire existimavit proculdubiò <hi>Bullialdus.</hi> At differunt in aequatione Circulorum, Cum enim Methodus <hi>cap.</hi> 19. <hi>l.</hi> 1. Utatur Anomaliâ aequatâ Methodus <hi>l.</hi> 2. <hi>c:</hi> 4. perpetuò adhibet Coaequatam.
+<list>
+                        <item>Nempe <hi>l.</hi> 1. <hi>c.</hi> 19. R. exc ∷ s Nae. s, ae, Cir.</item>
+                        <item>☞ <hi>l.</hi> 2. <hi>c.</hi> 4. R. exc ∷ s Ncoae. s, ae, Cir.</item>
+                     </list>
+Verum enim verò Neutram harum methodorum praestat quot pollicetur.</p>
                   <p n="1">1. Nam ne<expan>
                         <am>
                            <g ref="char:abque"/>
@@ -4276,7 +4322,48 @@ At<expan>
                            </expan>cςf</item>
                      </list>
                   </p>
-                  <figure/>
+                  <p n="3">3. Ne<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Tertiò si analogiâ verâ inventa fuisset aequa<g ref="char:EOLhyphen"/>tio
+<pb n="20" facs="tcp:103182:45"/>
+circulorum, calculum ipse rectè absolvit. Nam inven<g ref="char:EOLhyphen"/>tis angulis
+<list>
+                        <item>
+                           <expan>
+                              <am>
+                                 <g ref="char:angulum"/>
+                              </am>
+                              <ex>angulum</ex>
+                           </expan>cςf</item>
+                        <item>
+                           <expan>
+                              <am>
+                                 <g ref="char:angulum"/>
+                              </am>
+                              <ex>angulum</ex>
+                           </expan>Sςc</item>
+                     </list>
+sive ae
+<list>
+                        <item>Circulorum seu Physica.</item>
+                        <item>Optica.</item>
+                     </list>
+Manifestum est subductis ex angulo medii motûs (sive ex<g ref="char:EOLhyphen"/>teriore) <expan>
+                        <am>
+                           <g ref="char:angulum"/>
+                        </am>
+                        <ex>angulum</ex>
+                     </expan>Afς, angulis istis in unam summam conjunctis inveniri statim angulum ad Solem quaesitum, sive angu<g ref="char:EOLhyphen"/>lum <expan>
+                        <am>
+                           <g ref="char:angulum"/>
+                        </am>
+                        <ex>angulum</ex>
+                     </expan>ASς,
+<figure/>
+                  </p>
                   <p>
                      <pb n="21" facs="tcp:103182:45"/>Verùm praeter duos istos angulos, angulum etiam ae<g ref="char:EOLhyphen"/>quationis Epicyclii seu <expan>
                         <am>
@@ -5103,7 +5190,10 @@ at<expan>
                            </am>
                            <ex>angulum</ex>
                         </expan>sfF Ergo in triangulo sfF dantur omnes Anguli cum latere sf. &amp; quaeritur latus sF distantia focorum vel dupla excentricitas.</p>
-                     <figure/>
+                     <p>
+                        <pb n="39" facs="tcp:103182:54"/>
+                        <figure/>
+                     </p>
                   </div>
                   <div type="method">
                      <head>Methodus secunda</head>
